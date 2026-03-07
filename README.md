@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/RACHIT7409/RACHIT7409/main/images/banner.png"/>
+  <img height="350" src="2fa43649-0017-498b-873b-32f860933342.png"/>
 </div>
-###
+
 
 <div align="center">
 
