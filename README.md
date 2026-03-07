@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/USERNAME/REPO/main/image.png"/>
+  <img height="200" src="https://raw.githubusercontent.com/RACHIT7409/RACHIT7409/main/images/banner.png"/>
 </div>
-
 ###
 
 <div align="center">
