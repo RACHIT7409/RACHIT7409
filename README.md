@@ -106,11 +106,11 @@ I'm **Rachit Chawla** from **India** 🇮🇳
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachit7409&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RACHIT7409&show_icons=true&theme=tokyonight"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachit7409&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RACHIT7409&layout=compact&theme=tokyonight"/>
 
 </div>
 
