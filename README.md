@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="2fa43649-0017-498b-873b-32f860933342.png"/>
+  <img height="150" src="2fa43649-0017-498b-873b-32f860933342.png"/>
 </div>
 
 
@@ -24,27 +24,18 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rachit7409&label=Profile%20views&color=0e75b6&style=flat"/>
 </div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Rachit Chawla</h1>
 <h3 align="center">ECE Student at LNMIIT Jaipur | MERN Stack & Full Stack Developer</h3>
 
 ###
-
 <h3 align="left">👨‍💻 About Me</h3>
 
-###
-
 <p align="left">
-
+  
 I'm **Rachit Chawla** from **India** 🇮🇳  
-<br><br>
-
 - 🎓 ECE Student at **LNMIIT Jaipur**
 - 💻 Interested in **Full Stack Development (MERN Stack)**
 - 🧠 Practicing **Data Structures and Algorithms**
