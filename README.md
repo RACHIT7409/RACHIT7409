@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <img height="250" src="2fa43649-0017-498b-873b-32f860933342.png"/>
 </div>
@@ -36,13 +35,13 @@
 
 I'm **Rachit Chawla** from **India 🇮🇳**
 
-- 🎓 ECE Student at **LNMIIT Jaipur**
-- 💻 Interested in **Full Stack Development (MERN Stack)**
-- 🧠 Practicing **Data Structures and Algorithms**
-- 🌱 Currently learning **Node.js, React, MongoDB**
-- 💬 Ask me about **React, JavaScript and Web Development**
-- ⚡ In my free time I build web apps and solve coding problems
-- 📫 Reach me at **rrachitchawla@gmail.com**
+* 🎓 ECE Student at **LNMIIT Jaipur**
+* 💻 Interested in **Full Stack Development (MERN Stack)**
+* 🧠 Practicing **Data Structures and Algorithms**
+* 🌱 Currently learning **Node.js, React, MongoDB**
+* 💬 Ask me about **React, JavaScript and Web Development**
+* ⚡ In my free time I build web apps and solve coding problems
+* 📫 Reach me at **[rrachitchawla@gmail.com](mailto:rrachitchawla@gmail.com)**
 
 ---
 
@@ -54,47 +53,50 @@ A **full-stack placement preparation platform** built to help students prepare s
 
 ### 🔗 Links
 
-Live Website  
+Live Website
 https://lnmiit-placement-portal.vercel.app
 
-Backend API  
+Backend API
 https://lnmiit-placement-portal-uzh1.onrender.com
 
-GitHub Repository  
+GitHub Repository
 https://github.com/RACHIT7409/lnmiit-placement-portal
 
 ---
 
 ### ✨ Features
 
-- Company-wise preparation resources
-- Interview experiences shared by students
-- Notes and study materials
-- Placement tracker
-- JWT Authentication
-- Admin panel for content management
+* Company-wise preparation resources
+* Interview experiences shared by students
+* Notes and study materials
+* Placement tracker
+* JWT Authentication
+* Admin panel for content management
 
 ---
 
 ### 🛠 Tech Stack
 
 Frontend
-- React
-- Tailwind CSS
-- Axios
-- React Router
-- Vite
+
+* React
+* Tailwind CSS
+* Axios
+* React Router
+* Vite
 
 Backend
-- Node.js
-- Express.js
-- MongoDB Atlas
-- JWT Authentication
+
+* Node.js
+* Express.js
+* MongoDB Atlas
+* JWT Authentication
 
 Deployment
-- Vercel (Frontend)
-- Render (Backend)
-- MongoDB Atlas (Database)
+
+* Vercel (Frontend)
+* Render (Backend)
+* MongoDB Atlas (Database)
 
 ---
 
@@ -104,55 +106,58 @@ A **full-stack digital mess coupon booking system** built to help hostel student
 
 ### 🔗 Links
 
-Live Website  
+Live Website
 https://digital-mess-meal-booking-system.vercel.app
 
-Backend API  
+Backend API
 https://digital-mess-meal-booking-system.onrender.com
 
-GitHub Repository  
+GitHub Repository
 https://github.com/RACHIT7409/digital-mess-meal-booking-system
 
 ---
 
 ### ✨ Features
 
-- Student meal booking for breakfast, lunch, snacks, and dinner
-- Razorpay test payment integration
-- QR coupon generation after successful payment
-- QR coupon verification by manager
-- Payment retry support for failed or incomplete payments
-- Student refund request system
-- Manager dashboard for bookings, QR verification, and refunds
-- Admin dashboard for users, meals, reports, and staff management
-- Role-based authentication for Student, Manager, and Admin
-- Fully deployed with Vercel, Render, MongoDB Atlas, and UptimeRobot
+* Student meal booking for breakfast, lunch, snacks, and dinner
+* Razorpay test payment integration
+* QR coupon generation after successful payment
+* QR coupon verification by manager
+* Payment retry support for failed or incomplete payments
+* Student refund request system
+* Manager dashboard for bookings, QR verification, and refunds
+* Admin dashboard for users, meals, reports, and staff management
+* Role-based authentication for Student, Manager, and Admin
+* Fully deployed with Vercel, Render, MongoDB Atlas, and UptimeRobot
 
 ---
 
 ### 🛠 Tech Stack
 
 Frontend
-- React
-- Tailwind CSS
-- Axios
-- React Router
-- Vite
+
+* React
+* Tailwind CSS
+* Axios
+* React Router
+* Vite
 
 Backend
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
-- JWT Authentication
-- Razorpay API
-- QR Code Generator
+
+* Node.js
+* Express.js
+* MongoDB Atlas
+* Mongoose
+* JWT Authentication
+* Razorpay API
+* QR Code Generator
 
 Deployment
-- Vercel (Frontend)
-- Render (Backend)
-- MongoDB Atlas (Database)
-- UptimeRobot (Backend Keep Alive)
+
+* Vercel (Frontend)
+* Render (Backend)
+* MongoDB Atlas (Database)
+* UptimeRobot
 
 ---
 
@@ -209,4 +214,3 @@ Deployment
 </div>
 
 ---
-```
